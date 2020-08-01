@@ -1,4 +1,4 @@
-medals info,Summer Games,Summer Games,Summer Games,Summer Games,Summer Games,Winter Games,Winter Games,Winter Games,Winter Games,Winter Games,Combined Total,Combined Total,Combined Total,Combined Total,
+medals info,Summer Games,,,,,Winter Games,,,,,Combined Total,,,,
 Team,Number,Gold,Silver,Bronze,Total,Number,Gold,Silver,Bronze,Total,Number,Gold,Silver,Bronze,Total
 Afghanistan,14,0,0,2,2,0,0,0,0,0,14,0,0,2,2
 Algeria,13,5,4,8,17,3,0,0,0,0,16,5,4,8,17
@@ -109,7 +109,7 @@ Qatar,9,0,1,4,5,0,0,0,0,0,9,0,1,4,5
 Romania,21,89,95,122,306,21,0,0,1,1,42,89,95,123,307
 Russia,6,149,125,152,426,6,47,38,35,120,12,196,163,187,546
 Russian Empire,3,1,4,3,8,0,0,0,0,0,3,1,4,3,8
-Soviet Union,9,395,319,296,1.01,9,78,57,59,194,18,473,376,355,1.204
+Soviet Union,9,395,319,296,101,9,78,57,59,194,18,473,376,355,1204
 Unified Team,1,45,38,29,112,1,9,6,8,23,2,54,44,37,135
 Olympic Athletes from Russia,0,0,0,0,0,1,2,6,9,17,1,2,6,9,17
 Saudi Arabia,11,0,1,2,3,0,0,0,0,0,11,0,1,2,3
@@ -140,7 +140,7 @@ Turkey,22,39,24,28,91,17,0,0,0,0,39,39,24,28,91
 Uganda,15,2,3,2,7,0,0,0,0,0,15,2,3,2,7
 Ukraine,6,34,30,56,120,7,3,1,4,8,13,37,31,60,128
 United Arab Emirates,9,1,0,1,2,0,0,0,0,0,9,1,0,1,2
-United States,27,1.022,795,706,2.523,23,105,112,88,305,50,1.127,907,794,2.828
+United States,27,1022,795,706,2523,23,105,112,88,305,50,1127,907,794,2828
 Uruguay,21,2,2,6,10,1,0,0,0,0,22,2,2,6,10
 Uzbekistan,6,7,6,18,31,7,1,0,0,1,13,8,6,18,32
 Venezuela,18,2,4,9,15,4,0,0,0,0,22,2,4,9,15
